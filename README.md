@@ -66,11 +66,8 @@
 ```
 ├── README.md                       # 本文件
 ├── SKILL.md                        # 核心提示词（复制给AI即可开始）
-├── QUICK-START.md                  # 5分钟快速开始指南
-├── SHARE-GUIDE.md                  # 分享给朋友的使用说明
 ├── interview-framework.md          # 完整访谈框架（含39个问题+追问路径）
-├── interview-analysis-report.md    # 分析报告模板
-└── 公众号文章-深度自我认知系统.md  # 背景故事
+└── interview-analysis-report.md    # 分析报告模板
 ```
 
 ## 许可
@@ -79,7 +76,7 @@
 
 ## 作者
 
-Fei | IT行业20年 | 深度访谈方法爱好者
+飞叔AI沉思录 | IT行业20年 | 深度访谈方法爱好者
 
 ---
 
