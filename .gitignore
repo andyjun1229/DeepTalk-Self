@@ -1,1 +1,7 @@
+data/interviews/
+data/profile/
+data/interview-progress.json
+data/interview-progress.json.backup
+.DS_Store
 __pycache__/
+*.pyc
